@@ -1,0 +1,12 @@
+button {
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+  background-color: darkolivegreen;
+  margin: 60vh 90vh;
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0.2ch;
+}
+
+/* End of creating a responsive click me button project.....  */
