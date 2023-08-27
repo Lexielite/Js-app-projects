@@ -1,0 +1,44 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300&display=swap');
+
+
+*{
+box-sizing: border-box;
+
+}
+
+body {
+  background-image: url(https://media.istockphoto.com/id/1454725008/photo/astonishing-morning-scenery-of-norwegian-nusfjord-village.jpg?s=612x612&w=0&k=20&c=CSA5CLgbrE581XMSvUM9YZQ6K3DeHA36Gk8vB5OncGM=);
+  background-size:cover;
+  background-position:center center;
+    min-height:100vh;
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  align-items:center;
+    flex-direction: column;
+    margin: 0;
+}
+
+h1{
+  font-weight:normal;
+  font-size: 4rem;
+  margin-top: 4rem;
+}
+
+.countdown-container{
+display:flex;
+}
+
+.big-text {
+  font-weight:bold;
+  font-size: 6rem;
+  line-height:1;
+  margin:0 2rem;
+}
+
+.cd-element{
+text-align:center;
+}
+
+.cd-element span {
+  font-size:1.5rem;
+}
